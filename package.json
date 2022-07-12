@@ -1,0 +1,13 @@
+{
+  "name": "realm-js-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make-playground": "cp -rf playground-template playground"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

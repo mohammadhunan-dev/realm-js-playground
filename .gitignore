@@ -1,0 +1,4 @@
+.DS_Store
+playground-template/node_modules
+playground-template/mongodb-realm
+playground/
